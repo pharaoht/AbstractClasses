@@ -1,0 +1,11 @@
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\bin\Debug\netcoreapp2.1\abstractclasses.deps.json
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\bin\Debug\netcoreapp2.1\abstractclasses.runtimeconfig.json
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\bin\Debug\netcoreapp2.1\abstractclasses.runtimeconfig.dev.json
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\bin\Debug\netcoreapp2.1\abstractclasses.dll
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\bin\Debug\netcoreapp2.1\abstractclasses.pdb
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.csprojAssemblyReference.cache
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.AssemblyInfoInputs.cache
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.AssemblyInfo.cs
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.dll
+C:\Users\Pharaoh Manson\source\repos\abstractclasses\abstractclasses\obj\Debug\netcoreapp2.1\abstractclasses.pdb
